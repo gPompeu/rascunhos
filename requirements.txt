@@ -2,3 +2,5 @@ notebook
 pandas
 sklearn
 numpy
+keras
+tensorflow
